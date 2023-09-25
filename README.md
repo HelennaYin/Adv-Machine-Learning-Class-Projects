@@ -1,6 +1,6 @@
-# Adv-Machine-Learning-Class-Projects
+# Adv Machine Learning Class Projects
 
-The repository contains notebooks of class projects for advanced machine learning course. Topics includes locally weighted regression, boosting algorithms, convolutionary neural networks.
+The repository contains notebooks of class projects for advanced machine learning course(DATA 410). Topics includes locally weighted regression, boosting algorithms, convolutionary neural networks.
 
 [Compare Between Locally Weighted Regression and Random Forest](https://github.com/HelennaYin/Adv-Machine-Learning-Class-Projects/blob/main/CompareRF%26LWR.ipynb)
 
