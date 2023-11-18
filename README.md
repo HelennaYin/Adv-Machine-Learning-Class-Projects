@@ -1,6 +1,6 @@
 # Adv Machine Learning Class Projects
 
-The repository contains notebooks of class projects for advanced machine learning course(DATA 410). Topics includes locally weighted regression, boosting algorithms, variable selections.
+The repository contains notebooks of class projects for advanced machine learning (DATA 410) in 2022 Spring. Topics includes locally weighted regression, boosting algorithms, variable selections.
 
 [Compare Multivariate Locally Weighted Regression and Random Forest](https://github.com/HelennaYin/Adv-Machine-Learning-Class-Projects/blob/main/CompareRF%26LWR.ipynb)
 
