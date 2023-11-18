@@ -4,6 +4,8 @@ The repository contains notebooks of class projects for advanced machine learnin
 
 [Compare Multivariate Locally Weighted Regression and Random Forest](https://github.com/HelennaYin/Adv-Machine-Learning-Class-Projects/blob/main/CompareRF%26LWR.ipynb)
 
+[Boosting Algorithms](https://github.com/HelennaYin/Adv-Machine-Learning-Class-Projects/blob/main/Boosting_algorithms.ipynb)
+
 [Variable Selection Methods For Regression Algorithm](https://github.com/HelennaYin/Adv-Machine-Learning-Class-Projects/blob/main/Variable_Selection_Methods_for_Regression_Algorithm.ipynb)
 
 
